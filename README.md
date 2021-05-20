@@ -1,5 +1,5 @@
-# portifolio-HTML-CSS-JS
-Portifólio para prática de estilização em CSS
+# portfolio-HTML-CSS-JS
+Portfólio para prática de estilização em CSS
 
 ## Tarefas
 
