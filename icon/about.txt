@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Kelly Slab
-- Font Author: Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>, with Reserved Font Names "Kelly", "Kelly Slab".
-- Font Source: http://fonts.gstatic.com/s/kellyslab/v11/-W_7XJX0Rz3cxUnJC5t6TkMBf50kbiM.ttf
+- Font Title: Jockey One
+- Font Author: Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names "Jockey" and "Jockey One"
+- Font Source: http://fonts.gstatic.com/s/jockeyone/v10/HTxpL2g2KjCFj4x8WI6ArIb7HYOk4xc.ttf
 - Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
